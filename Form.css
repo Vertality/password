@@ -1,0 +1,10 @@
+.full-width {
+  width: 100%;
+}
+.redbutton,
+.menu nav a.redbutton {
+  color: red;
+}
+.colorgreen {
+  color: rgba(3, 248, 3, 0.89);
+}
